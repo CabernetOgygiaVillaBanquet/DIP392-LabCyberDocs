@@ -34,7 +34,7 @@ What I have in mind is an app helping to architecture the documentation. It need
 easily (responsive design). The authentification process should be reduced to the bare minimum but 
 security should not be neglected.
 
-![App Architecture!](Application Architecture.jpg)
+![App Architecture](<image/Application Architecture.jpg>)
 
 Once the content added it would be pushed for commit. An administrator would have to validate the 
 addition
