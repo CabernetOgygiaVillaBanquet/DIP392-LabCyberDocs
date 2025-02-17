@@ -1,7 +1,5 @@
 # DIP392-LabCyberDocs
 
-# LabCyberDOcs
-
 # Members
 1. Nicolas Cholin
 2. Batex Bafika
