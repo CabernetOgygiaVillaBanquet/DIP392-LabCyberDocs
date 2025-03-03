@@ -6,6 +6,8 @@
 3. Bekassyl Adenov
 4. Rofig Ashumov
 5. Ayman Saifan
+6. Tagne Chiby Ellios
+7. Quenum Gianna
  
 # Problem Description: 
 LabCyber requires an IT solution to streamline their documentation process, specifically for machine 
